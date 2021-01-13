@@ -18,16 +18,6 @@ GET: *https://5e82ac6c78337f00160ae496.mockapi.io/api/v1/contacts*
 - Implemente a **busca** para filtrar os contatos em tempo real.
 - Implemente os filtros de ordenação por *Nome*, *País*, *Empresa*, *Departamento* e *Data de Admissão*.
 
-### Dicas:
-
-- Tudo pode ser resolvido em um único componente.
-- O *estado* será mais complexo, ou seja, será um objeto com múltiplas *propriedades*.
-
-### Iniciar o projeto:
-
-- Instale as dependências do projeto com o comando *yarn install* ou *npm install*.
-- Inicie o projeto com comando *yarn start* ou *npm start* / *npm run start*.
-
 **Preview:**
 
 [Contacts SPA](https://vimeo.com/414869096/55f4293a68)
@@ -41,11 +31,6 @@ Neste desafio você vai praticar os seus conhecimentos em:
 - **Modularização**
 - **Fetch API**
 - **JS:** *Array.map*, *Array.filter*, *Array.reduce*, *Array.find*, *Array.sort*
-
-## Requisitos:
-
-* **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
-* **[Create React App](https://github.com/facebook/create-react-app)**
 
 ## Screenshot de Referência
 
